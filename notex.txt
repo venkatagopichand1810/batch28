@@ -23,3 +23,29 @@ is splice modify the original array
 how to exract the items from the cart
 how to add new itesm to the cart 
 what is indexOf and if the element is not found what it will return
+
+
+class 26 react interview
+
+diff class components and functional components in react
+what is statefull and stateless components
+what are react hooks 
+how to create the class component in react
+what is state and setState methods in class component
+how to maintain the state of the application in react
+what is usestate and explain the syntax for usestate 
+is state variable is mutable or immutable
+what is useeffect used for and give syntax for useeffect
+what is the purpose of depedency in useeffect
+what happens if we dont have dependency in useeffect
+how to run useeffect only once 
+how to do an api call call using useffect, give example
+how to handle loading and error stats during the api calls in useeffect
+how to use fetch, async/await in useeffect
+what is the key prop in react 
+why we have to use key prop 
+what happens if we dont provide the key props 
+how to use key prop in arrays and objects 
+diff b/w props and state
+
+
