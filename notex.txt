@@ -1,0 +1,25 @@
+ interview questions
+
+
+what is the diff map and foreach
+how to render the list of data in react using map
+is map() function modify the origial array
+write a program to render the list of items using the map function in react
+what is the filter method
+is filter() modify the origial array 
+what is diff filter and map method 
+give the example for the filter in react 
+what is reduce method and dif from map method 
+what is accumulator
+how to cal total price of the itesm in the cart using reduce
+what is the purpose of intialvalue in reduce method 
+what is push and pop, what it will return 
+what is diff b/w foreach and map
+is foreach going to return new array? 
+when to use map and when to use foreach
+what is slice and splice, explain the syntax
+is slice modify the origial array?
+is splice modify the original array 
+how to exract the items from the cart
+how to add new itesm to the cart 
+what is indexOf and if the element is not found what it will return
