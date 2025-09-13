@@ -48,4 +48,42 @@ what happens if we dont provide the key props
 how to use key prop in arrays and objects 
 diff b/w props and state
 
+class 28
+what is the purpose useCallback in react
+how useCallback help with peformance optimization 
+what is diff b/w useCallback and usememo
+real time example for useCallback
+what is memo
+what will will happen if we use memo 
+what is going happen if we are not using memo 
+what are forms in react
+diff kinds of forms in react 
+what are controlled forms 
+where exactly we have to use controlled forms in real time
+what are uncontolled forms 
+which hook we are going to use in controlled forms 
+which hook we are going to use in uncontolled forms 
+what is useRef hook and where we wil use in react 
+diff useRef and useState in react 
+where we will use uncontolled forms
+what is the purpose of useMemo hook 
+how to avoid unnecessary rendering in react
+which hook we are going to use when we have expensive operations in react and how can stop rerenders 
+what is preventDefault 
+how to access values in controlled and uncontolled forms 
+how to maintain the state of the application in react
+how to maintain the complex state of the application 
+expalin diff b/w useState and useReducer 
+what is the syntax for usestate and useReducer
+give the syntax for useReducer 
+what is state, dispatch in useReducer syntax 
+what is reducer function in useReducer
+can you explalin an example for useReducer
+how to update the state using useReducer
+
+
+
+
+
+
 
