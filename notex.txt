@@ -82,6 +82,48 @@ can you explalin an example for useReducer
 how to update the state using useReducer
 
 
+class 29
+what is the react router and how to setup the router in react 
+what is diff b.w SPA and map
+what is browserrouter 
+what is Router, routes, and route and link 
+how to create the navgiation links using react router
+what is useNavigate used for 
+what is useParms 
+what is useSeachParams
+what is outlet 
+how to implement nested routing in react router 
+how to handle 404 route issues in react router 
+what is lazy loading and how implement in react 
+what is useLocation hook 
+how to navigate from one route to another router programttically 
+how to fetch the ID from the URL 
+
+
+
+
+
+
+
+class 30 
+
+what is diff b/w fetch and axios in react 
+how to make simple Get request using fetch in react and diplay in jSX
+how to make simple Get request using axios in react and diplay in jSX
+do we need to add headers in axios 
+does axios automatically parsse JSON responses? 
+how to handle erros with fetch 
+how to handle errors with axios 
+how to make post request with the JSON body using fetch 
+how to make the post request with axios 
+is axios coming with javascript or is it npm package?
+
+
+
+
+
+
+
 
 
 
