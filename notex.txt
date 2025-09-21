@@ -119,6 +119,19 @@ how to make the post request with axios
 is axios coming with javascript or is it npm package?
 
 
+class 31
+what is the context api in react 
+what is prop drilling and how to fix the prop drilling in react 
+why we have use context api instead of props 
+what problem context api solves
+what are main building blocks of context api,
+what is creatContext, provider, useContext 
+what is consumer with respect to context api
+how do create the context in react 
+how we can avoid the props and how to use the context api in the components
+what are the drawback of context compared redux/mobx/zustand 
+
+
 
 
 
